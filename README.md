@@ -1,6 +1,9 @@
 # Random Character Generator
 
+## About the Package
 The random character generator is a library used to generate strings with random letters/numbers
+
+Current version: 0.0.4
 
 ## Installation
 
@@ -51,7 +54,6 @@ For more help, use the module_help() function
 import randomcharactergenerator
 randomcharactergenerator.module_help()
 ```
-
 
 ## GitHub
 
