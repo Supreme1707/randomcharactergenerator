@@ -1,6 +1,5 @@
 import random
 
-
 def rand_code(characters=5):
     """
     Returns a random string containing alphabets and numbers
@@ -55,8 +54,3 @@ def number_code(characters=5):
         code = code + str(random.choice(numbers))
         i += 1
     return code
-
-
-print(rand_code())
-print(alphabet_code())
-print(number_code())
