@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="randomcharactergenerator",
-    version="0.0.1",
+    version="0.0.4",
     author="HighlyIntelligentBeing",
     author_email="highlyintelligentbeing1707@gmail.com",
     description="A library which generates random character codes using the random module",
