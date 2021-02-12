@@ -111,7 +111,16 @@ The library contains 4 functions: rand_code(), alphabet_code(), number_code() an
 rand_code() generates a string with both alphabets and numbers
 alphabet_code() generates a string with only alphabets
 number_code() generates a string with only numbers
-module_help() shows the help for this library""")
+module_help() shows the help for this library
+
+General information:
+
+Version: 0.0.5
+Author: HighlyIntelligentBeing
+License: MIT License 2021
+Date of release: 12 February 2021
+Files: 2
+""")
 
         elif str(inpt) == 'exit':
             quit()
